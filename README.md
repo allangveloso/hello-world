@@ -1,3 +1,3 @@
 # hello-world
 
-Hoje o céu está lindo
+Hoje o céu está lindo.
